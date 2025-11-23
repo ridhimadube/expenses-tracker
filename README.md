@@ -22,4 +22,3 @@ Many students struggle to track their daily spending. This project provides a mi
 
 No external libraries were used.
 
-## 📂 Project Structure
